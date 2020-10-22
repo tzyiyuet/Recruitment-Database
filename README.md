@@ -4,9 +4,10 @@ The purpose of the recruitment database is to improve the recruiting process of 
 The table of content can be found as the following:
 1. Background
 2. Mission Statement and Objectives
-3. Entity Relationship Diagram
-4. Data Dictionary
-5. Relational Schema
-6. Presentation
-7. Code to Create the Database
-8. Code to Retrieve Data
+3. Data Flow Diagram
+4. Entity Relationship Diagram
+5. Data Dictionary
+6. Relational Schema
+7. Presentation
+8. Code to Create the Database
+9. Code to Retrieve Data
