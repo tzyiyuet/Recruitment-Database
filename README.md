@@ -1,5 +1,5 @@
-# Recruitment_Database
-The purpose of the recruitment database is to improve the recruiting process of a company. Given that a company have their job application online, the data will be stored in a database. By inputting queries, the company can sort out and find qualified applicants easier and faster.
+# Application Tracking System_Database
+The purpose of the Application Tracking System database is to improve the recruiting process of a company. Given that a company have their job application online, the data will be stored in a database. By inputting queries as the features of the system, the company can sort out and find qualified applicants easier and faster.
 
 The table of content can be found as the following:
 1. [Overview](https://github.com/tzyiyuet/recruitment_database/blob/main/Overview.md)
